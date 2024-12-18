@@ -12,15 +12,12 @@ function getComputerChoice() {
         value = optiune3;
     }
 
-    console.log(value); 
+    return value; 
 }
 
-getComputerChoice(); 
+getComputerChoice();              
 
 
    
 
 
-
-
-*/
